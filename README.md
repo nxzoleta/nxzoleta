@@ -10,7 +10,7 @@ I’m a data engineer with a passion for building cloud-based data solutions usi
 - Serverless workflows with AWS Step Functions.
 
 🚀 **My Projects**:
-- [ETL Pipeline with AWS Lambda and S3](#)
+- [ETL Pipeline with AWS Lambda and S3](https://github.com/nxzoleta/ETL-AWSLambdaS3Pipeline)
 - [Data Warehouse with Redshift](#)
 - [Real-time Data Streaming with Kinesis](#)
 - [Data Lake Architecture with AWS Lake Formation](#)
